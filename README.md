@@ -1,5 +1,9 @@
 # Foto Kita Blur
 
+## Live Demo
+
+🌐 https://919abedf.foto-kita-blur-2s3.pages.dev
+
 Auto-blur camera when showing a peace sign.
 
 ## Tech stack
