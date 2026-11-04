@@ -8,28 +8,46 @@
 | Tech Stack | Next.js |
 | Status | Dalam pengembangan |
 | Penanggung Jawab | Nabil Aulia Dika |
+| Live Demo | https://919abedf.foto-kita-blur-2s3.pages.dev |
 | Versi Dokumen | 1.0 |
 | Tanggal | 2026 |
 
 ## 2. Latar Belakang
 
-Auto-blur camera when showing a peace sign.
+Kamera auto-blur saat menunjukkan peace sign (✌️). Menggunakan MediaPipe Tasks Vision untuk deteksi gesture real-time.
 
 ## 3. Tujuan
 
-Menyediakan solusi digital yang efisien dan mudah dipelihara.
+Menyediakan solusi digital yang efisien, terukur, dan mudah dipelihara.
 
 ## 4. Ruang Lingkup
 
 - Fitur inti aplikasi sesuai struktur repo.
+- Setup & konfigurasi pengembangan lokal.
+- Dokumentasi (README + PRD).
 
 ## 5. Fitur & Persyaratan Fungsional
 
-Lihat struktur folder dan source code.
+Struktur proyek:
+- .wrangler/
+- app/
+- hooks/
+- lib/
+- LICENSE
+- PRD.md
+- README.md
+- eslint.config.mjs
+- metadata.json
+- next-env.d.ts
+- next.config.ts
+- package-lock.json
+- package.json
+- postcss.config.mjs
+- tsconfig.json
 
 ## 6. Persyaratan Non-Fungsional
 
-- **Performa:** responsif.
+- **Performa:** responsif untuk penggunaan normal.
 - **Keamanan:** rahasia (`.env`) tidak boleh ter-commit.
 - **Maintainability:** kode terstruktur, terdokumentasi.
 
@@ -44,7 +62,7 @@ Next.js
 | Inisialisasi & scaffolding | ✅ |
 | Pengembangan fitur inti | 🔄 |
 | Testing & QA | ⏳ |
-| Deployment | ⏳ |
+| Deployment | ✅ |
 | Dokumentasi | ✅ |
 
 ## 9. Risiko & Mitigasi
@@ -57,7 +75,7 @@ Next.js
 ## 10. Kriteria Keberhasilan
 
 - Aplikasi berjalan tanpa error di lingkungan dev.
-- README & PRD lengkap.
+- README & PRD lengkap dan up-to-date.
 
 ## 11. Lisensi
 
