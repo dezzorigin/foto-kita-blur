@@ -1,22 +1,54 @@
 # Foto Kita Blur
 
-## Live Demo
+Kamera auto-blur saat menunjukkan peace sign (✌️). Menggunakan MediaPipe Tasks Vision untuk deteksi gesture real-time.
 
-🌐 https://919abedf.foto-kita-blur-2s3.pages.dev
+## 🌐 Live Demo
 
-Auto-blur camera when showing a peace sign.
+**https://919abedf.foto-kita-blur-2s3.pages.dev**
 
-## Tech stack
+## 📋 Tech Stack
 
 Next.js
 
-## Getting started
+## 📁 Struktur Proyek
 
-See project files for setup instructions.
+```
+.wrangler/
+app/
+hooks/
+lib/
+LICENSE
+PRD.md
+README.md
+eslint.config.mjs
+metadata.json
+next-env.d.ts
+next.config.ts
+package-lock.json
+package.json
+postcss.config.mjs
+tsconfig.json
+```
 
-## License
+## 🚀 Getting Started
 
-MIT — see [LICENSE](./LICENSE).
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+> Untuk project HTML statis, cukup buka `index.html` di browser atau serve folder dengan static server.
+
+## 📊 Status Proyek
+
+Dalam pengembangan aktif.
+
+## 📄 Lisensi
+
+MIT — lihat [LICENSE](./LICENSE).
 
 ---
-_Maintained by dezzorigin._
+_Dikembangkan oleh **dezzorigin** (Nabil Aulia Dika)._
