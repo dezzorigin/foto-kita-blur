@@ -7,7 +7,7 @@
 | Nama Proyek | Foto Kita Blur |
 | Deskripsi | Kamera web yang otomatis mem-blur gambar saat pengguna menunjukkan peace sign (✌️) |
 | Tech Stack | Next.js 15 (static export), React 19, TypeScript, MediaPipe Tasks Vision, Tailwind CSS 4 |
-| Live Demo | https://foto-kita-blur.pages.dev |
+| Live Demo | https://blurkita.pages.dev |
 | Repo | https://github.com/dezzorigin/foto-kita-blur |
 | Lisensi | MIT |
 | Versi Dokumen | 2.0 (18 Nov 2026) |

@@ -6,7 +6,7 @@ tanpa akun, tanpa server.
 
 ## 🌐 Live Demo
 
-**https://foto-kita-blur.pages.dev**
+**https://blurkita.pages.dev**
 
 ## 🖼️ Tampilan
 
