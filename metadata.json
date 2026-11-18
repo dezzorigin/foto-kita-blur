@@ -1,6 +1,5 @@
 {
  "name": "Foto Kita Blur",
  "description": "Auto-blur camera when showing a peace sign.",
- "requestFramePermissions": ["camera"],
- "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+ "requestFramePermissions": ["camera"]
 }
